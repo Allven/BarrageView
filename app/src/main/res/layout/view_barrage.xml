@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/ll_container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="bottom"
+    android:layout_marginTop="10dp"
+    android:animateLayoutChanges="true"
+    android:divider="@drawable/divider"
+    android:layoutAnimation="@anim/la_bottom_to_top"
+    android:orientation="vertical"
+    android:showDividers="middle">
+
+</LinearLayout>
